@@ -9,10 +9,10 @@ I originally got the idea from a friend who also had an encryption program on th
 
 The encryptor/decryptor includes:
 
-encoding/decoding function based on what the user chooses
-user can also restart the program or break the program after their message is encrypted/decrypted.
-If user enters a wrong input for their message that will get converted, question that asks to encrypt/decrypt, or the question that asks to restart or quit, then the program prints "Invalid Input. Please try again." and loops back.
-2 different dictionaries for encrypt and decrypt
-useage of while True loops for many sections of the user's usage of the tool.
-New module to shorten the code in the main.
-A class added to practice OOP.
+1. encoding/decoding function based on what the user chooses
+2. user can also restart the program or break the program after their message is encrypted/decrypted.
+3. If user enters a wrong input for their message that will get converted, question that asks to encrypt/decrypt, or the question that asks to restart or quit, then the program prints "Invalid Input. Please try again." and loops back.
+4. 2 different dictionaries for encrypt and decrypt
+5. useage of while True loops for many sections of the user's usage of the tool.
+6. New module to shorten the code in the main.
+7. A class added to practice OOP.
